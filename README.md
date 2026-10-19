@@ -1,5 +1,5 @@
 # nhap-mon-cnpm-practice
-# Lưu trữ thực hành cho học phần Nhập môn Công nghệ phần mềm
+# Repository Thực hành - Nhập môn CNPM
 
 
 Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
